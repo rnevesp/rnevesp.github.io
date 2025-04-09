@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my Personal Page",
+    "title": "Ricardo Neves",
     "section": "",
     "text": "Let’s generate novel solutions."
   },
@@ -11,6 +11,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Data Nerd well versed in Python, SQL, Machine Learning and AI"
+    "text": "Data Nerd well versed in Python, SQL, Machine Learning and AI\n\nEducation\nUniversity Aberta | Msc in Applied Mathematics | Ongoing\nUniversity of Lisbon | PG in Applied AI & Machine Learning | Mar 2023 - Feb 2024\nUniversity of Coimbra | Bsc in Economics | Sep 2012 - Jan 2018\n\n\nExperience\nBNP Paribas Personal Finance | Data Analyst | Jun 2024 - present\nBNP Paribas Personal Finance | Data Engineer | Jun 2022 - May 2024\nUniversity of Lisbon | Researcher Assistant | Jan 2022 - May 2022\nUniversity of Coimbra | Research Manager | Jan 2020 - Jan 2021\nHiscox SA | Accounting Administrator | Jan 2019 - Aug 2019\nBNP Paribas Securities Services | May 2018 - Dec 2018\n\n\nCertifications\nGoogle | TensorFlow Developer Certificate\nAWS | AI Practicioner\nAWS | Machine Learning Engineer Associate"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity Aberta | Lisbon, Portugal\nMsc in Applied Mathematics | Ongoing\nUniversity of Lisbon | Lisbon, Portugal\nPG in Applied AI & Machine Learning | Mar 2023 - Feb 2024\nUniversity of Coimbra | Coimbra, Portugal\nBsc in Economics | Sep 2012 - Jan 2018"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nBNP Paribas Personal Finance | Data Analyst | Jun 2024 - present\nBNP Paribas Personal Finance | Data Engineer | Jun 2022 - May 2024\nUniversity of Lisbon | Researcher Assistant | Jan 2022 - May 2022\nUniversity of Coimbra | Research Manager | Jan 2020 - Jan 2021\nHiscox SA | Accounting Administrator | Jan 2019 - Aug 2019\nBNP Paribas Securities Services | May 2018 - Dec 2018"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming Soon"
+  },
+  {
+    "objectID": "projects.html#coming-soon",
+    "href": "projects.html#coming-soon",
+    "title": "Projects",
+    "section": "Coming Soon",
+    "text": "Coming Soon"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Coming Soon"
   }
 ]

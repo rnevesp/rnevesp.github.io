@@ -3,3 +3,35 @@ title: "About"
 ---
 
 Data Nerd well versed in Python, SQL, Machine Learning and AI
+
+### Education
+
+University Aberta | Msc in Applied Mathematics | Ongoing
+
+
+University of Lisbon | PG in Applied AI & Machine Learning | Mar 2023 - Feb 2024
+
+
+University of Coimbra | Bsc in Economics | Sep 2012 - Jan 2018
+
+### Experience
+
+BNP Paribas Personal Finance | Data Analyst | Jun 2024 - present
+
+BNP Paribas Personal Finance | Data Engineer | Jun 2022 - May 2024
+
+University of Lisbon | Researcher Assistant | Jan 2022 - May 2022
+
+University of Coimbra | Research Manager | Jan 2020 - Jan 2021
+
+Hiscox SA | Accounting Administrator | Jan 2019 - Aug 2019
+
+BNP Paribas Securities Services | May 2018 - Dec 2018
+
+### Certifications
+
+Google | TensorFlow Developer Certificate
+
+AWS | AI Practicioner
+
+AWS | Machine Learning Engineer Associate 

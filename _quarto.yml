@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Ricardo Neves"
+  title: "RNP"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - blog.qmd
+      
 
 format:
   html:

@@ -1,5 +1,23 @@
 ---
-title: "Welcome to my Personal Page"
+title: "Ricardo Neves"
+subtitle: "Data Scientist | ML & AI Enthusiast"
+image: profile_img.jpg
+about:
+    template: jolla
+    image-shape: round
+    links: 
+      - icon: github 
+        text: Github
+        href: https://github.com/rnevesp
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/ricardo-neves-pires/
+      - icon: hugging face
+        text: Hugging Face
+        href: https://huggingface.co/rnevesp  
+      - icon: medium
+        text: Medium
+        href: https://medium.com/@neves.ricard.pires  
 ---
 
 Let's generate novel solutions.
