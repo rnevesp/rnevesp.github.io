@@ -1,7 +1,6 @@
 ---
-title: "rnevesp.github.io"
+title: "Welcome to my Personal Page"
 ---
 
-This is a Quarto website.
+Let's generate novel solutions.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

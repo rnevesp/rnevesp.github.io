@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Data Nerd well versed in Python, SQL, Machine Learning and AI
